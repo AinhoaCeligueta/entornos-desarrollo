@@ -4,7 +4,7 @@
 package org.cuatrovientos.simple;
 
 /**
- * @author Ainhoa Celigueta
+ * @author Ainhoa
  *
  */
 public class Main {
